@@ -14,3 +14,11 @@ Python yuklediyimiz sayt ise buradir.
 
 https://python-istihza.yazbel.com/ <br>
 Turk dilinde yazilmis en genis Python menbeesi buradir. Bu saytda Windows istifadecileri ucun ayrilmis basliqlara nezer yetirebilersiniz. GNU/Linux ve onun alt basliqlari size aid deyil.
+
+<br>
+Ders 2. <br>
+
+* Data tipleri (https://www.learnpick.in/prime/documents/ppts/details/5263/ppt-on-introduction-of-python)
+* input()
+* data tiplerinde emeliyatlar (casting)
+* if/else (eger vaxt bes ederse) (https://www.w3schools.com/python/python_conditions.asp)
