@@ -22,3 +22,7 @@ Ders 2. <br>
 * input()
 * data tiplerinde emeliyatlar (casting)
 * if/else (eger vaxt bes ederse) (https://www.w3schools.com/python/python_conditions.asp)
+
+<br>
+Ders 3. <br>
+* Loops
