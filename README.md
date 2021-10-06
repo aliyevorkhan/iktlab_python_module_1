@@ -23,6 +23,11 @@ Ders 2. <br>
 * data tiplerinde emeliyatlar (casting)
 * if/else (eger vaxt bes ederse) (https://www.w3schools.com/python/python_conditions.asp)
 
+QEYD:
+* Github'miz olsun
+* VS CODE yuklenecek (Pycharm da olar)
+*
+
 <br>
 Ders 3. <br>
 * Loops
