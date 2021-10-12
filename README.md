@@ -25,7 +25,7 @@ Ders 2. <br>
 QEYD:
 * Github'miz olsun
 * VS CODE yuklenecek (Pycharm da olar)
-*
+
 
 <br>
 Ders 3. <br>
@@ -36,5 +36,14 @@ Ders 3. <br>
 Ders 4. <br>
 
 * tapsiriq 1 in aciqlamasi
-* kahoot
-* loops
+* kahoot quiz 1
+* while loops
+
+QEYD:
+* VS CODE ile proyektler yazilmaga baslanir.
+
+<br>
+Ders 5. <br>
+
+* list, set, tuple, dict
+* for loops
