@@ -36,6 +36,7 @@ Ders 3. <br>
 Ders 4. <br>
 
 * tapsiriq 1 in aciqlamasi
+* aritmetik ops eksikler
 * kahoot quiz 1
 * while loops
 
