@@ -21,7 +21,6 @@ Ders 2. <br>
 * Data tipleri (https://www.learnpick.in/prime/documents/ppts/details/5263/ppt-on-introduction-of-python)
 * input()
 * data tiplerinde emeliyatlar (casting)
-* if/else (eger vaxt bes ederse) (https://www.w3schools.com/python/python_conditions.asp)
 
 QEYD:
 * Github'miz olsun
@@ -30,4 +29,12 @@ QEYD:
 
 <br>
 Ders 3. <br>
-* Loops
+
+* if/else (eger vaxt bes ederse) (https://www.w3schools.com/python/python_conditions.asp)
+
+<br>
+Ders 4. <br>
+
+* tapsiriq 1 in aciqlamasi
+* kahoot
+* loops
