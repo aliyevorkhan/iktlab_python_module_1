@@ -45,6 +45,5 @@ QEYD:
 <br>
 Ders 5. <br>
 
-* list, list ops
-* for loops, list ile istifadesi
-* string ops
+* list, list ops -> loop lists'e qeder(daxil deyil)
+* string ops -> upper, lower kimi spesifik funksiyalara qeder. Onlar daxil deyil
