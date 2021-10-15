@@ -46,5 +46,5 @@ QEYD:
 Ders 5. <br>
 
 * list, list ops
-* for loops
+* for loops, list ile istifadesi
 * string ops
