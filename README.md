@@ -45,5 +45,6 @@ QEYD:
 <br>
 Ders 5. <br>
 
-* list, set, tuple, dict
+* list, list ops
 * for loops
+* string ops
