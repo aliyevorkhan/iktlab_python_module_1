@@ -47,3 +47,7 @@ QEYD:
 
 * list, list ops -> loop lists'e qeder(daxil deyil)
 * string ops -> upper, lower kimi spesifik funksiyalara qeder. Onlar daxil deyil
+
+- [x] Ders 6. <br>
+* Mini tapshiriqlar aciqlandi
+* Ders 5 ile eyni movzular tekrarlandi.
