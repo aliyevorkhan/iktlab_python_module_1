@@ -51,3 +51,13 @@ QEYD:
 - [x] Ders 6. <br>
 * Mini tapshiriqlar aciqlandi
 * Ders 5 ile eyni movzular tekrarlandi.
+
+- [x] Ders 7. <br>
+* String upper-lowerden sonra qalan movzular
+* For loop
+* list loop hissesinden sonrasi
+* tuples
+* sets
+
+- [] Ders 8. <br>
+* Dictionaries
