@@ -59,5 +59,5 @@ QEYD:
 * tuples
 * sets
 
-- [] Ders 8. <br>
+- [ ] Ders 8. <br>
 * Dictionaries
