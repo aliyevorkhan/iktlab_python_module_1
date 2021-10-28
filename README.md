@@ -55,9 +55,9 @@ QEYD:
 - [x] Ders 7. <br>
 * String upper-lowerden sonra qalan movzular
 * For loop
+
+
+- [x] Ders 8. <br>
 * list loop hissesinden sonrasi
 * tuples
 * sets
-
-- [ ] Ders 8. <br>
-* Dictionaries
