@@ -61,3 +61,10 @@ QEYD:
 * list loop hissesinden sonrasi
 * tuples
 * sets
+
+- [x] Ders 9. <br>
+* dictionaries
+
+- [x] Ders 10. <br>
+* algoritma nece emele getirilir
+* kod yazma (https://www.yazilimkodlama.com/programlama/algoritma-ve-akis-diyagramlari-ornekleri/)
