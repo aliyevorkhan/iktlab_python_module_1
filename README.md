@@ -68,3 +68,11 @@ QEYD:
 - [x] Ders 10. <br>
 * algoritma nece emele getirilir
 * kod yazma (https://www.yazilimkodlama.com/programlama/algoritma-ve-akis-diyagramlari-ornekleri/)
+
+- [x] Ders 11. <br>
+* kod yazma (https://www.yazilimkodlama.com/programlama/algoritma-ve-akis-diyagramlari-ornekleri/)
+
+- [x] Əlavə dərs <br>
+* Tapshiriq 2 aciqlama
+* Bonus tapshiriq 1 aciqlama
+* tapshiriq 3 haqqinda muzakire
