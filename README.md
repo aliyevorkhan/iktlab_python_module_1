@@ -76,3 +76,8 @@ QEYD:
 * Tapshiriq 2 aciqlama
 * Bonus tapshiriq 1 aciqlama
 * tapshiriq 3 haqqinda muzakire
+
+- [x] Ders 12. <br>
+* operatorlar
+* dictionaries tekrar
+* sinif_tapshirigi_1
