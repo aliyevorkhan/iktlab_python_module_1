@@ -81,3 +81,7 @@ QEYD:
 * operatorlar
 * dictionaries tekrar
 * sinif_tapshirigi_1
+
+- [x] Ders 12. <br>
+* funksiyalar (return values hissesine qeder (daxil deyil))
+
