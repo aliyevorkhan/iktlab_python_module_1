@@ -19,6 +19,7 @@ def check_file(filename):
         return True
     else: # bos -> False
         return False
+    
 if __name__ == "__main__":
     if check_file("sample_file.json"): #doludursa
         data = read_data("sample_file.json")
