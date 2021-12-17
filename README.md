@@ -98,6 +98,6 @@ QEYD:
 * RegEx
 * lambda exp
 
-- [] Ders 24. <br>
+- [ ] Ders 24. <br>
 * MultiThreading
 * MultiProcessing
