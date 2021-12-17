@@ -85,3 +85,16 @@ QEYD:
 - [x] Ders 13. <br>
 * funksiyalar (return values hissesine qeder (daxil deyil))
 
+.
+.
+.
+
+- [x] Ders 22. <br>
+* decorators
+* __repr__ __eq__ xususi funksiyalari
+
+- [x] Ders 23. <br>
+* dataclasses
+* RegEx
+* lambda exp
+
