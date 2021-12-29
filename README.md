@@ -98,6 +98,7 @@ QEYD:
 * RegEx
 * lambda exp
 
-- [ ] Ders 24. <br>
-* MultiThreading
+- [x] Ders 24. <br>
 * MultiProcessing
+* Deadlocks
+* MutEx
