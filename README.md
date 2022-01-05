@@ -102,3 +102,16 @@ QEYD:
 * MultiProcessing
 * Deadlocks
 * MutEx
+
+- [ ] Ders 25. <br>
+* MultiThreading numune (Covid)
+* Database giris
+* Select, Insert, Update, Delete
+
+- [ ] Ders 26. <br>
+* Python Database numuneleri
+* CRUD Operations
+
+- [ ] Ders 27. <br>
+* API mentiqi
+* Request ve Response isleri
