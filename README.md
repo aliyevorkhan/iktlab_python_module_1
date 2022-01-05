@@ -103,12 +103,13 @@ QEYD:
 * Deadlocks
 * MutEx
 
-- [ ] Ders 25. <br>
+- [x] Ders 25. <br>
 * MultiThreading numune (Covid)
 * Database giris
-* Select, Insert, Update, Delete
+* Select, Insert
 
 - [ ] Ders 26. <br>
+* Update, Delete
 * Python Database numuneleri
 * CRUD Operations
 
