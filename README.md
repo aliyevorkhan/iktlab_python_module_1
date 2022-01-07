@@ -117,7 +117,7 @@ QEYD:
 * Python Database numuneleri(CRUD ops davami)
 * Status codelar
 * Client Server mentigi
-* Request/Response 
 * GET/POST/DELETE/PUT methods
 * Url isleme mentiqi (http/https/ip/port/routes)
 * Localhost mentiqi
+* Request/Response (GET numunesi)
