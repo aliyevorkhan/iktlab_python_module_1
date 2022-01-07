@@ -108,11 +108,16 @@ QEYD:
 * Database giris
 * Select, Insert
 
-- [ ] Ders 26. <br>
+- [x] Ders 26. <br>
 * Update, Delete
-* Python Database numuneleri
-* CRUD Operations
+* Python Database numuneleri(CRUD ops)
+
 
 - [ ] Ders 27. <br>
-* API mentiqi
-* Request ve Response isleri
+* Python Database numuneleri(CRUD ops davami)
+* Status codelar
+* Client Server mentigi
+* Request/Response 
+* GET/POST/DELETE/PUT methods
+* Url isleme mentiqi (http/https/ip/port/routes)
+* Localhost mentiqi
