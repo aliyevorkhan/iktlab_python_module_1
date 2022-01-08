@@ -1,5 +1,4 @@
 import sqlite3
-
 from sqlite3 import Error
 
 def create_connection():
@@ -16,17 +15,12 @@ def create_table(con):
 
 def insert1(con):
     cursorObj = con.cursor()
-    cursorObj.execute("INSERT INTO employees VALUES(1, 'John', 700, 'HR', 'Manager', '2017-01-04')")
+    cursorObj.execute("INSERT INTO employees VALUES(2, 'Ali', 888, 'HR', 'Manager', '2017-01-04')")
     con.commit()
 
-def insert2(con, entities):
+def insert2(con, e):
     cursorObj = con.cursor()
-    cursorObj.execute('INSERT INTO employees(id, name, salary, department, position, hireDate) VALUES(?, ?, ?, ?, ?, ?)', entities)
-    con.commit()
-
-def update(con):
-    cursorObj = con.cursor()
-    cursorObj.execute('UPDATE employees SET name = "Rogers" where id = 2')
+    cursorObj.execute('INSERT INTO employees(id, name, salary, department, position, hireDate) VALUES(?, ?, ?, ?, ?, ?)', e)
     con.commit()
 
 def select1(con):
@@ -39,46 +33,51 @@ def select1(con):
 
 def select2(con):
     cursorObj = con.cursor()
-    cursorObj.execute('SELECT id, name FROM employees WHERE salary > 800.0')
+    cursorObj.execute('SELECT id, name FROM employees WHERE salary >= 800.0')
 
     rows = cursorObj.fetchall()
     for row in rows:
         print(row)
 
+def update1(con):
+    cursorObj = con.cursor()
+    cursorObj.execute('UPDATE employees SET name = "Ali" where id = 2')
+    con.commit()
+
+def update2(con, e):
+    cursorObj = con.cursor()
+    cursorObj.execute('UPDATE employees SET name = ?, salary = ? where id = ?', e)
+    con.commit()
+
+    # e = ("Rogers", 1200, "PR", "Manager")
+    # cursorObj.execute('UPDATE employees SET name = ?, salary = ?, department = ? , position =?, hireDate=? where id = ?', e)
+
 def delete1(con):
     cursorObj = con.cursor()
     print(cursorObj.execute('DELETE FROM employees').rowcount)
+    con.commit()
 
 def delete2(con):
     cursorObj = con.cursor()
     print(cursorObj.execute('DELETE FROM employees WHERE salary>800').rowcount)
+    con.commit()
+
+def drop_table(con):
+    cursorObj = con.cursor()
+    cursorObj.execute('DROP TABLE employees')
+    con.commit()
 
 if __name__ == '__main__':
     con = create_connection()
-    #table yarat
-    create_table(con)
-
-    # ilk isci melumatlarini insert et insert1 ile
-    insert1(con)
-
-    # ikinci isci melumatlarini insert et insert2 ile
-    entities = (2, 'Andrew', 800, 'IT', 'Tech', '2018-02-06')
-    insert2(con, entities)
-
-    # isci melumatlarini yenile
-    update(con)
-
-    # table'daki butun setirleri getir select1 ile
+    # create_table(con)
+    # insert1(con)
+    # entities = (3, 'Andrew', 800, 'IT', 'Tech', '2018-02-06')
+    # insert2(con, entities)
     select1(con)
-
-    # tableda maasi 800den yuxari olan setirleri getir select2 ile
-    select2(con)
-
-    # table'dan butun melumatlari sil delete1 ile
-    delete1(con)
-
-    # table'dan maasi 800den yuxari olan setirleri sil delete2 ile
-    delete2(con)
-
-
-    con.close()
+    # select2(con)
+    # update1(con)
+    updated_entities = ("Rogers", 999, 3)
+    update2(con, updated_entities)
+    # delete2(con)
+    # delete1(con)
+    # drop_table(con)
