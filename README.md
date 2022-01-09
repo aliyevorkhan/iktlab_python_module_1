@@ -113,7 +113,7 @@ QEYD:
 * Python Database numuneleri(CRUD ops)
 
 
-- [ ] Ders 27. <br>
+- [x] Ders 27. <br>
 * Python Database numuneleri(CRUD ops davami)
 * Status codelar
 * Client Server mentigi
