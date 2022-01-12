@@ -121,3 +121,12 @@ QEYD:
 * Url isleme mentiqi (http/https/ip/port/routes)
 * Localhost mentiqi
 * Request/Response (GET numunesi)
+
+- [x] Ders 28 <br>
+* Todo app (CRUD numunesi - advanced)
+* CREATE, READ, DELETE
+
+- [ ] Ders 29 <br>
+* Todo app davami (CRUD numunesi - advanced)
+* UPDATE
+* Son elaveler
