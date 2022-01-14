@@ -44,8 +44,3 @@ def delete(con, id):
     cursorObj = con.cursor()
     cursorObj.execute('DELETE FROM todos WHERE id=?', (id,))
     con.commit()
-
-def drop_table(con):
-    cursorObj = con.cursor()
-    cursorObj.execute('DROP TABLE employees')
-    con.commit()
