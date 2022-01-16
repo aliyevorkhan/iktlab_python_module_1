@@ -126,7 +126,17 @@ QEYD:
 * Todo app (CRUD numunesi - advanced)
 * CREATE, READ, DELETE
 
-- [ ] Ders 29 <br>
+- [x] Ders 29 <br>
 * Todo app davami (CRUD numunesi - advanced)
 * UPDATE
 * Son elaveler
+
+- [ ] Ders 30 <br>
+* FLASK API
+* GET ve POST Methodlari
+* Kalkluyator numunesi (API)
+
+- [ ] Ders 31 <br>
+* SQL ORM
+* SqlModel Modulu vasitesi ile ORM
+* CRUD Ops ORM ile
