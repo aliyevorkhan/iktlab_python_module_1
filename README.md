@@ -134,6 +134,7 @@ QEYD:
 - [ ] Ders 30 <br>
 * FLASK API
 * GET ve POST Methodlari
+* POSTMAN haqqinda melumat
 * Kalkluyator numunesi (API)
 
 - [ ] Ders 31 <br>
