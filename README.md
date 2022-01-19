@@ -138,6 +138,10 @@ QEYD:
 * Kalkluyator numunesi (API)
 
 - [ ] Ders 31 <br>
+* Public API'lerden istifade
+* API istifadesine ait numune
+
+- [ ] Ders 32 <br>
 * SQL ORM
 * SqlModel Modulu vasitesi ile ORM
 * CRUD Ops ORM ile
