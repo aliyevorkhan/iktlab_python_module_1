@@ -132,6 +132,7 @@ QEYD:
 * Son elaveler
 
 - [ ] Ders 30 <br>
+* Virtual Env
 * FLASK API
 * GET ve POST Methodlari
 * POSTMAN haqqinda melumat
