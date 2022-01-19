@@ -135,10 +135,11 @@ QEYD:
 * Virtual Env
 * FLASK API
 * GET ve POST Methodlari
+* 
+- [ ] Ders 31 <br>
+* GET ve POST Methodlari
 * POSTMAN haqqinda melumat
 * Kalkluyator numunesi (API)
-
-- [ ] Ders 31 <br>
 * Public API'lerden istifade
 * API istifadesine ait numune
 
