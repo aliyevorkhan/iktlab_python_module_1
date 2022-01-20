@@ -131,13 +131,13 @@ QEYD:
 * UPDATE
 * Son elaveler
 
-- [ ] Ders 30 <br>
+- [x] Ders 30 <br>
 * Virtual Env
 * FLASK API
 * GET ve POST Methodlari
-* 
+
 - [ ] Ders 31 <br>
-* GET ve POST Methodlari
+* GET ve POST Methodlari (davami)
 * POSTMAN haqqinda melumat
 * Kalkluyator numunesi (API)
 * Public API'lerden istifade
