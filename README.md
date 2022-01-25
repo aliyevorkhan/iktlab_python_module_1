@@ -136,14 +136,15 @@ QEYD:
 * FLASK API
 * GET ve POST Methodlari
 
-- [ ] Ders 31 <br>
+- [x] Ders 31 <br>
 * GET ve POST Methodlari (davami)
 * POSTMAN haqqinda melumat
 * Kalkluyator numunesi (API)
-* Public API'lerden istifade
-* API istifadesine ait numune
+
 
 - [ ] Ders 32 <br>
+* Public API'lerden istifade
+* API istifadesine ait numune
 * SQL ORM
 * SqlModel Modulu vasitesi ile ORM
 * CRUD Ops ORM ile
