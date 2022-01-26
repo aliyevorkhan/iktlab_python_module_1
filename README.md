@@ -143,8 +143,8 @@ QEYD:
 
 - [x] Ders 32 <br>
 * Public API'lerden istifade (https://randomuser.me/api/)
-* SQL ORM
-* SqlModel Modulu vasitesi ile ORM
+* SQL ORM 
+* SqlModel Modulu vasitesi ile ORM (https://sqlmodel.tiangolo.com/tutorial)
 
 - [ ] Ders 33 <br>
 * CRUD Ops ORM ile
