@@ -141,10 +141,11 @@ QEYD:
 * POSTMAN haqqinda melumat
 * Kalkluyator numunesi (API)
 
-
-- [ ] Ders 32 <br>
-* Public API'lerden istifade
-* API istifadesine ait numune
+- [x] Ders 32 <br>
+* Public API'lerden istifade (https://randomuser.me/api/)
 * SQL ORM
 * SqlModel Modulu vasitesi ile ORM
+
+- [ ] Ders 33 <br>
 * CRUD Ops ORM ile
+* API istifadesine ait numune
