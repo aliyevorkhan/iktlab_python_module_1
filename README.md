@@ -153,3 +153,5 @@ QEYD:
 
 - [x] Ders 34 <br>
 * Todo APP ORM API (davam)
+
+# DERSLERIN DAVAMI [BURADAKI](https://github.com/aliyevorkhan/iktlab_blog_app_django) PROYEKTDEN DAVAM EDIR
