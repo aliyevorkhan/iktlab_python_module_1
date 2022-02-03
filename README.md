@@ -153,13 +153,3 @@ QEYD:
 
 - [x] Ders 34 <br>
 * Todo APP ORM API (davam)
-
-- [ ] Ders 35 <br>
-* Django Giris
-* Django nedir, niye istifade edilir?
-* MVT nedir?
-* Django Yuklenmesi versiya 3.2.9
-* Django Proyektinin yaradilmasi
-* Virtual Env uzerine Django yuklenmesi
-* Django App yaradilmasi
-* HTTP Requests Django ile
